@@ -13,5 +13,8 @@
   ],
   "author": "Anderson Gomez <argomeza@itc.edu.co>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
