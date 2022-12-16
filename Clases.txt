@@ -66,3 +66,9 @@ Plugins recomendados para usar en tu día a día como frontend developer:
     Guides. Te ayudan a indentar tu código y ordenarlo de forma más eficiente.
     Indent-rainbow. Hace que la indentación sea más amigable con la ayuda de colores diferentes por nivel.
     Palenight Theme. Úsalo si quieres visualizar los mismos colores que se muestran en mi editor de código.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------- CLASE FINAL ----------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+https://github.com/tc39/ecma262#ecmascript (TC39 donde se dan las propuestas)
