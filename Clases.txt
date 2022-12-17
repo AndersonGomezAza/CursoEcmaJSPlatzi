@@ -1,0 +1,74 @@
+----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------- CLASE 1 ----------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1950: Se empezo a trabajar la computación(las computadoras nacieror para guerras);
+1969: Se creo ARPANET(Forma de comunicarser 2 computadoras para compartir información);
+1970-1990: exploración de ARPANET (Un ingeniero kimbers druit dio pauta a lo que conocemos como internet);
+            Se creo la WWW(World Wide Web);
+1993: Nacimiento de un navegador que permite explorar esas paginas web;
+    Universitarios iniciaron proyecto de como ayudar al internet
+    Marc Andreessen-> Le dio vida a Netscape el cual tenia un navegador que con el podias acceder a navegar (INTERNET)
+        HTML simple enlaces y imagenes basicas sin estilos
+1997-1998: Difenerentes guerrar y creaciones de exploradores web o navegadores
+    Browser Wars: dio pauta a muchas de las cosas actuales porque aqui surgio JavaScript
+        Microsoft peleo como el rey de las computador con internet explorer
+        gracias a esto nacieron tecnologias como las actualmente; 
+    Internet Explorer: Lanzamientos y peleas entre los diferentes navegadores;
+    Gracias a esto nacen lenguajes como CSS para estilos del HTML, tambien la empresa Muzilla;
+1995: Brendan -> Creador del lenguaje javascript inicialmente llamandolo MOCHA despues LiveScript y termino siendo JavaScript;
+        Tambien microsoft creo JScript por peleas entre ellos y gracias a esto se consigio el ECMAScript
+            ECMAScript(European Computer Manufacture Association)-> es un consorcio europeo que generaba un estandar entre los diferentes Scripts de los navegadores;
+1997 - ECMA - 262 : Estandar oficial que nace en este año y del cual se parte de ahora en adelante con su evolución;
+EVOLUCIONES:
+1995 MOCHA
+1996 JScript
+1997 - ECMA - 262(ES)
+1998 ES2
+1999 ES3
+2000 ES4 (Abandonado)
+2005 ES5
+2015 ES6
+2016 ES7
+2017 ES8
+2018 ES9
+2019 ES10
+2021 2022 sigue teniendo mejoras     
+
+----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------- CLASE 2 ----------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Como puedo utilizar las ultimas Funcionalidades del lenguaje
+
+ESNEXT: Es el ES que viene y pasa por un proceso el cual es TC39(Regula las versiones y este estandar);
+    Stage 0: Strawperson (Idea Persona);
+    Stage 1: Proporsal (Propuesta);
+    Stage 2: Draft (Borrador);
+    Stage 3: Candidate (Candidata);
+    Stage 4: Finished (Finalización);
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------- CLASE 3 ----------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Para instalar los plugins que te mostré, da click en ícono de extensiones de tu Visual Studio Code, escribe el nombre del plugin en la barra de búsqueda, seleccionalo e instala.
+
+Plugins importantes para este curso:
+    Code Runner. Permite ejecutar piezas de código seleccionadas y muestra el output directamente en nuestro editor de código. (Más de Code Runner)
+    Live Server. La vamos a utilizar para ejecutar un servidor y ver los cambios efectuados en tu código. (Más de Live Server)
+    JavaScript (ES6) code snippets. Autocompleta y brinda sugerencias al momento de escribir código. (Más de code snippets)
+
+Plugins recomendados para usar en tu día a día como frontend developer:
+    Auto Close Tag. Ayuda a cerrar más rápido las etiquetas que vas abriendo.
+    Error Lens. Muestra los errores visualizandolos de forma atractiva para que no pases ninguno por alto.
+    Guides. Te ayudan a indentar tu código y ordenarlo de forma más eficiente.
+    Indent-rainbow. Hace que la indentación sea más amigable con la ayuda de colores diferentes por nivel.
+    Palenight Theme. Úsalo si quieres visualizar los mismos colores que se muestran en mi editor de código.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------- CLASE FINAL ----------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+https://github.com/tc39/ecma262#ecmascript (TC39 donde se dan las propuestas)

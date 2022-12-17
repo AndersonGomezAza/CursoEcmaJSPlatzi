@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-ecmascript-historia-y-versiones-de-javascript",
+  "version": "1.0.0",
+  "description": "Curso De EcmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "ecmaScript",
+    "JavaScript"
+  ],
+  "author": "Anderson Gomez <argomeza@itc.edu.co>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
